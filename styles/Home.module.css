@@ -88,3 +88,13 @@
     flex-direction: column;
   }
 }
+
+/* .projectPicture {
+  transition: padding 1s;
+}
+.projectPicture:hover > .image {
+  filter: brightness(50%);
+}
+
+.projectPicture:hover > .explore {
+} */
